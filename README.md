@@ -1,9 +1,10 @@
-![prototyping solderable board](./images/3d-view-wled-twin-board-v1_1.png)
+![prototyping solderable board](./images/splash-3d-view-wled-twin-board-v1_1.png)
 
 [![GitHub version](https://img.shields.io/github/release/berrak/WLED-TWIN-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/WLED-TWIN-Board/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/berrak/WLED-TWIN-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/WLED-TWIN-Board/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/berrak/WLED-TWIN-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/WLED-TWIN-Board/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/berrak/WLED-TWIN-Board.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/WLED-TWIN-Board/issues)
+![Badge Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=berrak_WLED-TWIN-Board)
 
 # The WLED Twin Board
 
@@ -80,3 +81,7 @@ The WLED Twin board is available only fully assembled. The single-channel [WLED 
 [![Tindie](./images/tindie-small.png)](https://www.tindie.com/stores/debinix/)
 
 I appreciate your support.
+
+## Credits
+
+`Comming soon` splash image by [starline](https://www.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_9504688.htm#query=coming%20soon&position=4&from_view=keyword).
